@@ -1,0 +1,153 @@
+name,player style,nationality,base price (in lacs),final price (in lacs),franchise,status
+Harshit Rana,Bowler,India,,20,KKR,RETAINED
+Ekant Sen,Batter,India,20,,,UNSOLD
+Wayne Parnell,Allrounder,South Africa,75,,,UNSOLD
+Shakib Al Hasan,Allrounder,Bangladesh,150,150,KKR,SOLD
+Joe Root,Batter,England,100,100,RR,SOLD
+Abdul Basith,Allrounder,India,20,20,RR,SOLD
+Prashant Chopra,Allrounder,India,20,,,UNSOLD
+Akeal Hosein,Bowler,West Indies,100,100,SRH,SOLD
+Raghav Goyal,Bowler,India,20,20,MI,SOLD
+Yudhvir Singh Charak,Allrounder,India,20,20,LSG,SOLD
+Luke Wood,Bowler,England,100,,,UNSOLD
+Dilshan Madushanka,Bowler,Sri Lanka,50,,,UNSOLD
+Naveen-ul-Haq,Allrounder,Afghanistan,50,50,LSG,SOLD
+Akash Singh,Bowler,India,20,,,UNSOLD
+Akash Vashist,Allrounder,India,20,20,RR,SOLD
+Suryansh Shedge,Allrounder,India,20,,,UNSOLD
+Johnson Charles,WK-Batter,West Indies,50,,,UNSOLD
+Rassie van der Dussen,Batter,South Africa,200,,,UNSOLD
+Mandeep Singh,Batter,India,50,50,KKR,SOLD
+Murugan Ashwin,Bowler,India,20,20,RR,SOLD
+KM Asif,Bowler,India,30,30,RR,SOLD
+Dinesh Bana,WK-Batter,India,20,,,UNSOLD
+Anmolpreet Singh,Batter,India,20,20,SRH,SOLD
+Adam Zampa,Bowler,Australia,150,150,RR,SOLD
+Kusal Mendis,WK-Batter,Sri Lanka,50,,,UNSOLD
+Litton Das,WK-Batter,Bangladesh,50,50,KKR,SOLD
+Rilee Rossouw,Batter,South Africa,200,460,DC,SOLD
+Shivam Singh,Allrounder,India,20,20,PBKS,SOLD
+Mohit Rathee,Allrounder,India,20,20,PBKS,SOLD
+Bhagath Varma,Allrounder,India,20,20,CSK,SOLD
+Nehal Wadhera,Allrounder,India,20,20,MI,SOLD
+Shubhang Hegde,Allrounder,India,20,,,UNSOLD
+Sonu Yadav,Allrounder,India,20,20,RCB,SOLD
+Deepesh Nainwal,Allrounder,India,20,,,UNSOLD
+Trilok Nag,Bowler,India,20,,,UNSOLD
+Shubham Kapse,Bowler,India,20,,,UNSOLD
+Utkarsh Singh,Allrounder,India,20,,,UNSOLD
+Jitender Pal,Allrounder,India,20,,,UNSOLD
+Kunal Singh Rathore,WK-Batter,India,20,20,RR,SOLD
+Ajay Jadav Mandal,Allrounder,India,20,20,CSK,SOLD
+Kulwant Khejroliya,Bowler,India,20,20,KKR,SOLD
+Balu Surya,Allrounder,India,20,,,UNSOLD
+Sanjay Raghunath,Batter,India,20,,,UNSOLD
+Priyank Panchal,Batter,India,20,,,UNSOLD
+Varun Aaron,Allrounder,India,50,,,UNSOLD
+Tom Curran,Allrounder,England,75,,,UNSOLD
+Rehan Ahmed,Allrounder,England,50,,,UNSOLD
+Avinash Singh,Bowler,India,20,60,RCB,SOLD
+Nitish Reddy,WK-Batter,India,20,20,SRH,SOLD
+G Ajitesh,WK-Batter,India,20,,,UNSOLD
+Sanjay Yadav,Allrounder,India,20,,,UNSOLD
+David Wiese,Allrounder,Namibia,100,100,KKR,SOLD
+Sumeet Verma,Allrounder,India,20,,,UNSOLD
+Swapnil Singh,Allrounder,India,20,20,LSG,SOLD
+Shams Mulani,Allrounder,India,20,20,MI,SOLD
+Himanshu Bisht,Allrounder,India,20,,,UNSOLD
+Mohit Sharma,Bowler,India,50,50,GT,SOLD
+Joshua Little,Bowler,Ireland,50,440,GT,SOLD
+Richard Gleeson,Bowler,England,50,,,UNSOLD
+Jamie Overton,Allrounder,England,200,,,UNSOLD
+Suyash Sharma,Bowler,India,20,20,KKR,SOLD
+Yuvraj Chudasama,Bowler,India,20,,,UNSOLD
+Tejas Baroka,Bowler,India,20,,,UNSOLD
+Paul van Meekeren,Bowler,Netherlands,20,,,UNSOLD
+Rajan Kumar,Bowler,India,20,70,RCB,SOLD
+Vidhwath Kaverappa,Bowler,India,20,20,PBKS,SOLD
+Vishnu Vinod,WK-Batter,India,20,20,MI,SOLD
+Karan Shinde,WK-Batter,India,20,,,UNSOLD
+Urvil Patel,WK-Batter,India,20,20,GT,SOLD
+Baba Indrajith,WK-Batter,India,20,,,UNSOLD
+Donavon Ferreira,WK-Batter,South Africa,20,50,RR,SOLD
+Jagadeesha Suchith,Allrounder,India,20,,,UNSOLD
+Prerak Mankad,Allrounder,India,20,20,LSG,SOLD
+Duan Jansen,Allrounder,South Africa,20,20,MI,SOLD
+Mayank Dagar,Allrounder,India,20,180,SRH,SOLD
+Manoj Bhandage,Allrounder,India,20,20,RCB,SOLD
+Will Smeed,Batter,England,20,,,UNSOLD
+Harpreet Singh Bhatia,Batter,India,20,40,PBKS,SOLD
+Piyush Chawla,Bowler,India,50,50,MI,SOLD
+Amit Mishra,Bowler,India,50,50,LSG,SOLD
+Kyle Jamieson,Allrounder,New Zealand,100,100,CSK,SOLD
+Blessing Muzarabani,Bowler,Zimbabwe,50,,,UNSOLD
+Dushmantha Chameera,Bowler,Sri Lanka,50,,,UNSOLD
+Taskin Ahmed,Bowler,Bangladesh,50,,,UNSOLD
+Sandeep Sharma,Bowler,India,50,,,UNSOLD
+Riley Meredith,Bowler,Australia,150,,,UNSOLD
+Dasun Shanaka,Allrounder,Sri Lanka,50,,,UNSOLD
+James Neesham,Allrounder,New Zealand,200,,,UNSOLD
+Mohammad Nabi,Allrounder,Afghanistan,100,,,UNSOLD
+Daniel Sams,Allrounder,Australia,75,75,LSG,SOLD
+Daryl Mitchell,Allrounder,New Zealand,100,,,UNSOLD
+Romario Shepherd,Bowler,West Indies,50,50,LSG,SOLD
+Dawid Malan,Batter,England,150,,,UNSOLD
+Travis Head,Allrounder,Australia,200,,,UNSOLD
+Will Jacks,Allrounder,England,150,320,RCB,SOLD
+Sherfane Rutherford,Allrounder,West Indies,150,,,UNSOLD
+Manish Pandey,Batter,India,100,240,DC,SOLD
+Paul Stirling,Allrounder,Ireland,50,,,UNSOLD
+Himanshu Sharma,Bowler,India,20,20,RCB,SOLD
+Sudhesan Midhun,Bowler,India,20,,,UNSOLD
+Shreyas Gopal,Bowler,India,20,,,UNSOLD
+Izharulhaq Naveed,Bowler,Afghanistan,20,,,UNSOLD
+Chintal Gandhi,Bowler,India,20,,,UNSOLD
+Mukesh Kumar,Bowler,India,20,550,DC,SOLD
+Shivam Mavi,Bowler,India,40,600,GT,SOLD
+N Jagadeesan,WK-Batter,India,20,90,KKR,SOLD
+Lance Morris,Bowler,Australia,30,,,UNSOLD
+Mujtaba Yousuf,Bowler,India,20,,,UNSOLD
+Yash Thakur,Bowler,India,20,45,LSG,SOLD
+Vaibhav Arora,Allrounder,India,20,60,KKR,SOLD
+Mohammed Azharuddeen,WK-Batter,India,20,,,UNSOLD
+Upendra Yadav,WK-Batter,India,20,25,SRH,SOLD
+Srikar Bharat,WK-Batter,India,20,120,GT,SOLD
+Sanvir Singh,Allrounder,India,20,20,SRH,SOLD
+Sumit Kumar,WK-Batter,India,20,,,UNSOLD
+Shashank Singh,Allrounder,India,20,,,UNSOLD
+Nishant Sindhu,Allrounder,India,20,60,CSK,SOLD
+Abhimanyu Easwaran,WK-Batter,India,20,,,UNSOLD
+Corbin Bosch,Allrounder,South Africa,20,,,UNSOLD
+Saurabh Kumar,Allrounder,India,20,,,UNSOLD
+Samarth Vyas,Allrounder,India,20,20,SRH,SOLD
+Priyam Garg,Batter,India,20,,,UNSOLD
+Vivrant Sharma,Allrounder,India,20,260,SRH,SOLD
+Himmat Singh,Batter,India,20,,,UNSOLD
+Shaik Rasheed,Batter,India,20,20,CSK,SOLD
+Rohan Kunnummal,Batter,India,20,,,UNSOLD
+Shubham Khajuria,Batter,India,20,,,UNSOLD
+Odean Smith,Allrounder,West Indies,50,50,GT,SOLD
+LR Chethan,Batter,India,20,,,UNSOLD
+Kane Williamson,Batter,New Zealand,200,200,GT,SOLD
+Ajinkya Rahane,Batter,India,50,50,CSK,SOLD
+Mayank Agarwal,Batter,India,100,825,SRH,SOLD
+Jason Holder,Allrounder,West Indies,200,575,RR,SOLD
+Ishant Sharma,Bowler,India,50,50,DC,SOLD
+Jaydev Unadkat,Bowler,India,50,50,LSG,SOLD
+Mayank Markande,Bowler,India,50,50,SRH,SOLD
+Nicholas Pooran,WK-Batter,West Indies,200,1600,LSG,SOLD
+Mujeeb Ur Rahman,Bowler,Afghanistan,100,,,UNSOLD
+Tabraiz Shamsi,Bowler,South Africa,100,,,UNSOLD
+Adil Rashid,Bowler,England,200,200,SRH,SOLD
+Jhye Richardson,Bowler,Australia,150,150,MI,SOLD
+Adam Milne,Bowler,New Zealand,200,,,UNSOLD
+Reece Topley,Bowler,England,75,190,RCB,SOLD
+Chris Jordan,Bowler,England,200,,,UNSOLD
+Philip Salt,Batter,England,200,200,DC,SOLD
+Tom Banton,WK-Batter,England,200,,,UNSOLD
+Heinrich Klaasen,WK-Batter,South Africa,100,525,SRH,SOLD
+Ben Stokes,Allrounder,England,200,1625,CSK,SOLD
+Cameron Green,Allrounder,Australia,200,1750,MI,SOLD
+Sikandar Raza,Allrounder,Zimbabwe,50,50,PBKS,SOLD
+Sam Curran,Allrounder,England,200,1850,PBKS,SOLD
+Harry Brook,Batter,England,150,1325,SRH,SOLD
